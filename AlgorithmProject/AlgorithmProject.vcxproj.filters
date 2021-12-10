@@ -246,5 +246,8 @@
     <ClCompile Include="BaekJoon2343.cpp">
       <Filter>소스 파일\BaekJoon</Filter>
     </ClCompile>
+    <ClCompile Include="BaekJoon3231.cpp">
+      <Filter>소스 파일\BaekJoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

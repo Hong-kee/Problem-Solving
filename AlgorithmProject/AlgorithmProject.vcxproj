@@ -217,6 +217,7 @@
     <ClCompile Include="BaekJoon2110.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="BaekJoon3231.cpp" />
     <ClCompile Include="BaekJoon22993.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
