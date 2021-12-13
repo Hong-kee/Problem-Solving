@@ -249,5 +249,14 @@
     <ClCompile Include="BaekJoon3231.cpp">
       <Filter>소스 파일\BaekJoon</Filter>
     </ClCompile>
+    <ClCompile Include="BaekJoon1057.cpp">
+      <Filter>소스 파일\BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon2501.cpp">
+      <Filter>소스 파일\BaekJoon</Filter>
+    </ClCompile>
+    <ClCompile Include="BaekJoon11004.cpp">
+      <Filter>소스 파일\BaekJoon</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
